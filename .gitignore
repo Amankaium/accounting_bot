@@ -3,3 +3,4 @@ excel/
 messages.xlsx
 venv/
 mytoken.py
+__pycache__/
